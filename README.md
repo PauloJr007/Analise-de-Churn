@@ -1,4 +1,4 @@
-# Análise de Churn e Retenção
+# 🔁 Análise de Dados – Churn e Retenção
 
 ## 🏢 Contexto
 Durante um case proposto por uma startup brasileira do setor de logística e mobilidade urbana, fui desafiado a resolver dois problemas reais enfrentados pela empresa.
